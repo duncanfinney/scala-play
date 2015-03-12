@@ -5,7 +5,6 @@ object P04 extends App {
     case Nil       => 0 
   }
   
-  
   assert(countList(List(1,2,3)) == 3)
   assert(countList(List(1,2,3,4)) == 4)
 }
