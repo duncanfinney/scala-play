@@ -1,0 +1,1 @@
+Solutions to the problems on this site: http://aperiodic.net/phil/scala/s-99/
