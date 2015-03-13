@@ -4,6 +4,5 @@ object P05 {
   
   val list1 = List(1,2,3)
   
-  assert(reverseList(list1) == List(3,2,1))  
-  
+  assert(reverseList(list1) == List(3,2,1))
 }
