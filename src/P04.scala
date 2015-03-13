@@ -1,3 +1,5 @@
+
+
 object P04 extends App {
   
   def countList[A](xs: List[A]) : Int = xs match {

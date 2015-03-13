@@ -1,3 +1,7 @@
+
+
+import scala.util.Random
+
 object P23 extends App {
   import scala.util.Random
   def randomSelect[A](n :Int, xs: List[A]) = Random.shuffle(xs).take(n)
